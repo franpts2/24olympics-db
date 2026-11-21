@@ -1,6 +1,16 @@
-# '24 Olympic Games Database Project
+# '24 Olympic Games Database
 
-This project implements a relational database for managing information related to the Olympic Games.
+A relational database for the 2024 Olympic Games, with schema, sample data, and SQL queries.
+
+> **Fork:** Fork of [pedroafmonteiro/project-bd-leic](https://github.com/pedroafmonteiro/project-bd-leic). The original project has no license file; this fork keeps the original attribution.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+</p>
+
+## About
+
+This project implements a relational database for managing information related to the Olympic Games: committees, people, athletes, coaches, venues, disciplines, stages, results, medals, and records.
 
 ## Project Structure
 
@@ -65,7 +75,9 @@ FROM Person
 JOIN Committee ON Person.comID = Committee.comID;
 ```
 
-## Development Team
+## Team & Course
+
+**Team**
 
 This project was developed by:
 
@@ -73,6 +85,14 @@ This project was developed by:
 - [João Lopes](https://github.com/joaolopes15)
 - [Pedro Monteiro](https://github.com/pedroafmonteiro)
 
-## Course Information
+**Course**
 
 Developed for the BD (Databases) course at FEUP (Faculty of Engineering, University of Porto).
+
+## License
+
+Coursework submitted at FEUP. Shared for reference; all rights reserved unless stated otherwise.
+
+---
+
+_24 Olympics — the Games, normalized._
