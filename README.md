@@ -87,7 +87,7 @@ This project was developed by:
 
 **Course**
 
-Developed for the BD (Databases) course at FEUP (Faculty of Engineering, University of Porto).
+Developed for the **BD (Databases)** course in 2024/2025 at FEUP (Faculty of Engineering, University of Porto).
 
 ## License
 
